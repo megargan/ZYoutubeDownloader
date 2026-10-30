@@ -178,6 +178,7 @@ jobs:
           --repo ${{ github.event.repository.full_name }}
 
   notify:
+    if: ${{ github.repository == 'Tyrrrz/YoutubeDownloader' }}
     needs: deploy
     runs-on: ubuntu-latest
     timeout-minutes: 10

@@ -38,7 +38,6 @@
     <PackageReference Include="Cogwheel" />
     <PackageReference Include="CommunityToolkit.Mvvm" />
     <PackageReference Include="CSharpier.MsBuild" PrivateAssets="all" />
-    <PackageReference Include="Deorcify" />
     <PackageReference Include="DialogHost.Avalonia" />
     <PackageReference Include="Gress" />
     <PackageReference Include="MacBundle" />
@@ -54,5 +53,6 @@
 
   <ItemGroup>
     <ProjectReference Include="../YoutubeDownloader.Core/YoutubeDownloader.Core.csproj" />
+    <None Include="../License.txt" Link="License.txt" CopyToPublishDirectory="PreserveNewest" />
   </ItemGroup>
 </Project>

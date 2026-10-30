@@ -13,8 +13,8 @@ public class UpdateService(SettingsService settingsService) : IDisposable
         OperatingSystem.IsWindows() && StartOptions.Current.IsAutoUpdateAllowed
             ? new UpdateManager(
                 new GithubPackageResolver(
-                    "Tyrrrz",
-                    "YoutubeDownloader",
+                    "megargan",
+                    "ZYoutubeDownloader",
                     // Examples:
                     // YoutubeDownloader.win-arm64.zip
                     // YoutubeDownloader.win-x64.zip

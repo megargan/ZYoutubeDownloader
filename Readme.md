@@ -1,10 +1,12 @@
-# YoutubeDownloader
+# ZYoutubeDownloader
+
+Fork of [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) with the Deorcify regional restriction removed. Updates and downloads are served from this fork. Restrictions imposed by YouTube or network providers still apply.
 
 [![Status](https://img.shields.io/badge/status-maintenance-ffd700.svg)](https://github.com/Tyrrrz/.github/blob/prime/docs/project-status.md)
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://tyrrrz.me/ukraine)
-[![Build](https://img.shields.io/github/actions/workflow/status/Tyrrrz/YoutubeDownloader/main.yml?branch=prime)](https://github.com/Tyrrrz/YoutubeDownloader/actions)
-[![Release](https://img.shields.io/github/release/Tyrrrz/YoutubeDownloader.svg)](https://github.com/Tyrrrz/YoutubeDownloader/releases)
-[![Downloads](https://img.shields.io/github/downloads/Tyrrrz/YoutubeDownloader/total.svg)](https://github.com/Tyrrrz/YoutubeDownloader/releases)
+[![Build](https://img.shields.io/github/actions/workflow/status/megargan/ZYoutubeDownloader/main.yml?branch=prime)](https://github.com/megargan/ZYoutubeDownloader/actions)
+[![Release](https://img.shields.io/github/release/megargan/ZYoutubeDownloader.svg)](https://github.com/megargan/ZYoutubeDownloader/releases)
+[![Downloads](https://img.shields.io/github/downloads/megargan/ZYoutubeDownloader/total.svg)](https://github.com/megargan/ZYoutubeDownloader/releases)
 [![Discord](https://img.shields.io/discord/869237470565392384?label=discord)](https://discord.gg/2SUWKFnHSm)
 [![Fuck Russia](https://img.shields.io/badge/fuck-russia-e4181c.svg?labelColor=000000)](https://twitter.com/tyrrrz/status/1495972128977571848)
 
@@ -39,8 +41,8 @@ To learn more about the war and how you can help, [click here](https://tyrrrz.me
 
 ## Download
 
-- 🟢 **[Stable release](https://github.com/Tyrrrz/YoutubeDownloader/releases/latest)**
-- 🟠 [CI build](https://github.com/Tyrrrz/YoutubeDownloader/actions/workflows/main.yml)
+- 🟢 **[Stable release](https://github.com/megargan/ZYoutubeDownloader/releases/latest)**
+- 🟠 [CI build](https://github.com/megargan/ZYoutubeDownloader/actions/workflows/main.yml)
 - 📦 [Scoop](https://scoop.sh/#/apps?q=YoutubeDownloader&p=1&id=2c0182d9ff5edefc525a57d50ead470d8f02184f): `scoop install extras/youtubedownloader` (community-maintained)
 - 📦 [AUR](https://aur.archlinux.org/packages/youtubedownloader): `yay -S youtubedownloader` (community-maintained)
 
