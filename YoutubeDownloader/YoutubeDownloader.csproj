@@ -46,13 +46,23 @@
     <PackageReference Include="Material.Avalonia.DataGrid" />
     <PackageReference Include="Material.Icons.Avalonia" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" />
-    <PackageReference Include="Onova" />
     <PackageReference Include="PowerKit" />
     <PackageReference Include="ThisAssembly.Project" PrivateAssets="all" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="../YoutubeDownloader.Core/YoutubeDownloader.Core.csproj" />
+    <ProjectReference Include="../vendor/Onova/Onova/Onova.csproj" />
     <None Include="../License.txt" Link="License.txt" CopyToPublishDirectory="PreserveNewest" />
+    <None
+      Include="../vendor/Onova/License.txt"
+      Link="Onova.License.txt"
+      CopyToPublishDirectory="PreserveNewest"
+    />
+    <None
+      Include="../vendor/YoutubeExplode/License.txt"
+      Link="YoutubeExplode.License.txt"
+      CopyToPublishDirectory="PreserveNewest"
+    />
   </ItemGroup>
 </Project>

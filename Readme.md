@@ -1,14 +1,12 @@
 # ZYoutubeDownloader
 
-Fork of [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) with the Deorcify regional restriction removed. Updates and downloads are served from this fork. Restrictions imposed by YouTube or network providers still apply.
+Fork of [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) with regional startup restrictions and political startup messages removed. YoutubeExplode and Onova are built from the source copies in `vendor/` without Deorcify, including its internalized checks. Updates and downloads are served from this fork. Restrictions imposed by YouTube or network providers still apply.
 
 [![Status](https://img.shields.io/badge/status-maintenance-ffd700.svg)](https://github.com/Tyrrrz/.github/blob/prime/docs/project-status.md)
-[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://tyrrrz.me/ukraine)
 [![Build](https://img.shields.io/github/actions/workflow/status/megargan/ZYoutubeDownloader/main.yml?branch=prime)](https://github.com/megargan/ZYoutubeDownloader/actions)
 [![Release](https://img.shields.io/github/release/megargan/ZYoutubeDownloader.svg)](https://github.com/megargan/ZYoutubeDownloader/releases)
 [![Downloads](https://img.shields.io/github/downloads/megargan/ZYoutubeDownloader/total.svg)](https://github.com/megargan/ZYoutubeDownloader/releases)
 [![Discord](https://img.shields.io/discord/869237470565392384?label=discord)](https://discord.gg/2SUWKFnHSm)
-[![Fuck Russia](https://img.shields.io/badge/fuck-russia-e4181c.svg?labelColor=000000)](https://twitter.com/tyrrrz/status/1495972128977571848)
 
 <table>
     <tr>

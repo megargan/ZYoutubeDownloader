@@ -89,6 +89,10 @@ jobs:
           --runtime ${{ matrix.rid }}
           --self-contained
 
+      - name: Verify no regional restrictions in binaries
+        shell: pwsh
+        run: ./scripts/Verify-NoRegionalRestrictions.ps1 -Path YoutubeDownloader/bin/publish
+
       - name: Rename macOS bundle
         if: ${{ startsWith(matrix.rid, 'osx-') }}
         run: mv YoutubeDownloader/bin/publish/YTD.app YoutubeDownloader/bin/publish/YoutubeDownloader.app

@@ -9,5 +9,14 @@
   </Folder>
 
   <Project Path="YoutubeDownloader/YoutubeDownloader.csproj" />
+  <Folder Name="/vendor/" />
+  <Folder Name="/vendor/Onova/">
+    <Project Path="vendor/Onova/Onova.Updater/Onova.Updater.csproj" />
+    <Project Path="vendor/Onova/Onova/Onova.csproj" />
+  </Folder>
+  <Folder Name="/vendor/YoutubeExplode/">
+    <Project Path="vendor/YoutubeExplode/YoutubeExplode.Converter/YoutubeExplode.Converter.csproj" />
+    <Project Path="vendor/YoutubeExplode/YoutubeExplode/YoutubeExplode.csproj" />
+  </Folder>
   <Project Path="YoutubeDownloader.Core/YoutubeDownloader.Core.csproj" />
 </Solution>
