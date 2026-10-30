@@ -1,6 +1,6 @@
 # ZYoutubeDownloader
 
-Fork of [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) with regional startup restrictions and political startup messages removed. YoutubeExplode and Onova are built from the source copies in `vendor/` without Deorcify, including its internalized checks. Updates and downloads are served from this fork. Restrictions imposed by YouTube or network providers still apply.
+Fork of [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader).
 
 [![Status](https://img.shields.io/badge/status-maintenance-ffd700.svg)](https://github.com/Tyrrrz/.github/blob/prime/docs/project-status.md)
 [![Build](https://img.shields.io/github/actions/workflow/status/megargan/ZYoutubeDownloader/main.yml?branch=prime)](https://github.com/megargan/ZYoutubeDownloader/actions)
@@ -10,7 +10,7 @@ Fork of [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) 
 
 <table>
     <tr>
-        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="https://tyrrrz.me/donate">Consider donating to support!</a></b></td>
+        <td width="99999" align="center">Development of this project is entirely funded by the community. 
     </tr>
 </table>
 
